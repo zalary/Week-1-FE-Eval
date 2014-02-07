@@ -1,0 +1,30 @@
+/* gotraustin styles.css */
+img.logo {height: 150px; padding-top: 20px;}
+.address { padding-top: 40px;}
+.contain-to-grid {
+    background: none repeat scroll 0 0 #FFFFFF;
+    width: 100%;
+}
+.top-bar { background-color: #524a48 !important;}
+.top-bar-section, .top-bar-section ul { background-color: #524a48 !important;}
+.top-bar-section li:not(.has-form) a:not(.button) {background-color: #524a48; }
+
+.top-bar-section li:not(.has-form) a:not(.button):hover {background-color: #3a2824; }
+
+.top-bar-section ul {display: table; margin: 0 auto;}
+.top-bar-section ul li {display: table-cell; padding: 0px 20px 0px;}
+
+h2 { color: #859554; font-family: 'Open Sans Condensed', sans-serif;}
+
+p {
+font-style: normal;
+font-family: 'Open Sans';
+font-size: 14px;
+text-align: justify;
+}
+.sponsors h2 { text-align: center; }
+
+.donate { background-color: #dadadc; }
+
+.button { background-color: #c84b82; }
+.button:hover { background-color: #d4659d; }
